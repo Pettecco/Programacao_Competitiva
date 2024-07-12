@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-// para esse problema é necessário calcular o indice onde se encotra o numero l e o indice do numero r e substrair
+// para esse problema é necessário calcular o indice onde se encotra o numero l e o indice do numero r e subtrair
 const int MAX = 10e5 + 10;
 int vet[MAX];
 int n;
